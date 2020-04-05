@@ -6,7 +6,7 @@ SceneID scene1, scene2;
 ObjectID startButton, endButton, restartButton, Original, zoro1, zoro2, zoro3, zoro4, zoro5, zoro6, zoro7, zoro8, zoro9, blank;
 
 
-
+//
 ObjectID board[3][3] = {
 	{zoro1, zoro2, zoro3},
 	{zoro4, zoro5, zoro6},
